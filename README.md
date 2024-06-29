@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharikasaxena18" alt="niharikasaxena18" /></a> </p>
 
-- 🔭 I’m currently working on [Spotify Clone project](linkkkkk)
+- 🔭 I’m currently working on [Spotify Clone project](https://github.com/NiharikaSaxena18/Spotify-Clone)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
