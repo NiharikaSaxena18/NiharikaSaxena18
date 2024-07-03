@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences in my [Resume](link)
 
-- ⚡ Fun fact **I like to collect vintage coins 🪙**
+- ⚡ Fun fact: **I like to collect vintage coins 🪙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
