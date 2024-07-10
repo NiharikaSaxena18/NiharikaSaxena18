@@ -4,7 +4,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=niharikasaxena18&label=Profile%20views&color=0e75b6&style=flat" alt="niharikasaxena18"/></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiharikaSaxena18&theme=radical"></a></p>
 
-- 🔭 I’m currently working on [Spotify Clone project](https://github.com/NiharikaSaxena18/Spotify-Clone)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
