@@ -1,26 +1,16 @@
 <h1 align="center">Hi there, I'm Niharika Saxena! 👋🏻</h1>
-<h3 align="center">A passionate frontend developer from IIIT Gwalior</h3>
+<h3 align="center">A passionate MERN stack developer from IIIT Gwalior</h3>
 
 <p><img src="https://komarev.com/ghpvc/?username=niharikasaxena18&label=Profile%20views&color=0e75b6&style=flat" alt="niharikasaxena18"/></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiharikaSaxena18&theme=radical"></a></p>
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
 - 👯 I’m looking to collaborate on web development projects
 
-- 🤝 I’m looking for help with Graphs data structure
-
 - 👨‍💻 All of my projects are available at [https://github.com/NiharikaSaxena18](https://github.com/NiharikaSaxena18)
-
-- 💬 Ask me about **Java,C++,C**
 
 - 📫 How to reach me **212060niharikasaxena@gmail.com**
 
 - 📄 Know about my experiences in my [Resume](link)
-
-- ⚡ Fun fact: **I like to collect vintage coins 🪙**
 
 ## Connect with me
 <a href="https://linkedin.com/in/niharika-saxena-256747281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niharika-saxena-256747281" height="30" width="40" /></a>
